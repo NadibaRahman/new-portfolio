@@ -80,9 +80,13 @@ h2{
 }
 .info-part{
     padding-left: 4%;
+    margin-right: 150px;
 }
 .info-part p{
     font-size: 25px;
+}
+.last{
+    margin-bottom: 60px;
 }
 footer{
     text-align: center;
