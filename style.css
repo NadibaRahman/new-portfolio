@@ -18,7 +18,7 @@ body{
 }
 .link-button{
     text-decoration: none;
-    background-image:linear-gradient(rgb(17, 109, 230), rgb(160, 67, 67));
+    background-image:linear-gradient(rgb(57, 100, 100), rgb(36, 156, 156));
     padding: 10px 30px;
     color: white;
     font-weight: 700;
@@ -42,6 +42,7 @@ body{
 h2{
     font-size: 35px;
 }
+
 .sec2{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
@@ -66,5 +67,8 @@ h2{
     
     box-shadow: 10px 10px 40px grey;
 }
+
+  
+  
 
 
